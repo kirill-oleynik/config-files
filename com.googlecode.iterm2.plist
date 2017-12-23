@@ -1282,11 +1282,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>138 77 606 456 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>269 122 796 473 0 0 1280 800 </string>
+	<string>269 267 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>80 193 592 584 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 0 1280 800 0 0 1280 800 </string>
+	<string>0 150 1277 650 0 0 1280 800 </string>
 	<key>NeverWarnAboutShortLivedSessions_E44613AE-DC86-485D-AFF0-8BD9BC3DEB68</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_E44613AE-DC86-485D-AFF0-8BD9BC3DEB68_selection</key>
@@ -1562,7 +1562,7 @@
 			<key>Idle Code</key>
 			<integer>0</integer>
 			<key>Initial Text</key>
-			<string>tmux attach -t base || tmux new -s base</string>
+			<string></string>
 			<key>Jobs to Ignore</key>
 			<array>
 				<string>rlogin</string>
@@ -2006,7 +2006,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-11-15T09:51:56Z</date>
+	<date>2017-11-29T14:45:25Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUSkippedVersion</key>
@@ -2032,7 +2032,7 @@
 	<key>UseBorder</key>
 	<false/>
 	<key>UseLionStyleFullscreen</key>
-	<false/>
+	<true/>
 	<key>WindowNumber</key>
 	<true/>
 	<key>findIgnoreCase_iTerm</key>

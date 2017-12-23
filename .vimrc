@@ -28,6 +28,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug '/usr/local/opt/fzf' " fzf search (installed using Homebrew)
 Plug 'junegunn/fzf.vim' " fzf search
+Plug 'elixir-editors/vim-elixir'
 
 " Themes
 Plug 'nanotech/jellybeans.vim'

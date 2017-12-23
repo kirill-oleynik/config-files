@@ -119,3 +119,12 @@ export PATH="$PATH:/Users/kirilloleynik/.rvm/gems/ruby-2.3.1/bin:/Users/kirillol
 export PATH="$HOME/.yarn/bin:$PATH"
 
 export FZF_DEFAULT_OPTS='--height 50% --reverse --border'
+
+alias gcloud='~/Code/google-cloud-sdk/bin/gcloud'
+
+# tabtab source for serverless package
+# uninstall by removing these lines or running `tabtab uninstall serverless`
+[[ -f /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/serverless.zsh ]] && . /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/serverless.zsh
+# tabtab source for sls package
+# uninstall by removing these lines or running `tabtab uninstall sls`
+[[ -f /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/sls.zsh ]] && . /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/sls.zsh
