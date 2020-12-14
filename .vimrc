@@ -1,3 +1,8 @@
+
+set hlsearch                    " highlight search results
+set incsearch                   " incremental searching
+set number "ahow ilne numbers
+set cursorcolumn "put your cursor in crosshairs
 let mapleader=","
 set encoding=utf-8 nobomb
 autocmd!
@@ -18,17 +23,20 @@ call plug#begin()
 Plug 'tpope/vim-sensible' " univeral set of defaults
 Plug 'jiangmiao/auto-pairs' " insert or delete brackets, etc.
 Plug 'tpope/vim-commentary' " comment line with 'gcc'
-Plug 'scrooloose/nerdtree' " sidebar with files tree
+" " NERD tree (sidebar with files tree) will be loaded
+" on the first invocation of NERDTreeToggle command
+Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'mg979/vim-visual-multi' " multiple cursors
 Plug 'tpope/vim-rails'
 Plug 'vim-ruby/vim-ruby'
 Plug 'ervandew/supertab'
 Plug 'bling/vim-airline'
-Plug 'airblade/vim-gitgutter' " show git status for lines
 Plug 'pangloss/vim-javascript'
+Plug 'airblade/vim-gitgutter' " show git status for lines
 Plug 'mxw/vim-jsx'
 Plug '/usr/local/opt/fzf' " fzf search (installed using Homebrew)
 Plug 'junegunn/fzf.vim' " fzf search
-Plug 'elixir-editors/vim-elixir'
+Plug 'xuyuanp/nerdtree-git-plugin'
 
 " Themes
 Plug 'nanotech/jellybeans.vim'
@@ -62,7 +70,6 @@ syntax enable
 syntax on
 syntax sync fromstart
 
-set hlsearch                    " highlight the search
 set ls=2                        " show a status line even if there's only one window
 
 set updatetime=250              " allows GitGutter to updated marks frequently
@@ -120,7 +127,6 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 
 " Searching
-set incsearch                   " incremental searching
 set ignorecase                  " searches are case insensitive...
 set smartcase                   " ... unless they contain at least one capital letter
 set scrolloff=0                 " keep a 5 line padding when moving the cursor

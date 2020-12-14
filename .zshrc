@@ -98,7 +98,7 @@ plugins=(zsh-autosuggestions)
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
+export EDITOR='vim'
 # else
 #   export EDITOR='mvim'
 # fi
@@ -121,6 +121,7 @@ export PATH="$HOME/.yarn/bin:$PATH"
 export FZF_DEFAULT_OPTS='--height 50% --reverse --border'
 
 alias gcloud='~/Code/google-cloud-sdk/bin/gcloud'
+
 
 # tabtab source for serverless package
 # uninstall by removing these lines or running `tabtab uninstall serverless`
