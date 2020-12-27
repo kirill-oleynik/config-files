@@ -1,4 +1,7 @@
 
+set autoread
+" au CursorHold,CursorHoldI * checktime
+" au CursorHold * checktime
 set hlsearch                    " highlight search results
 set incsearch                   " incremental searching
 set number "ahow ilne numbers
@@ -141,13 +144,8 @@ set tagbsearch                  " use binary searching for tags
 " The "Press ENTER or type command to continue" prompt is jarring and usually unnecessary.
 set shortmess=atI
 
-" remove search highlighting
-nnoremap <leader>h :noh<cr>
-" json beautifier with jq (https://github.com/stedolan/jq)
-nnoremap <leader>z :%!jq '.'<cr>
 nnoremap ; :
 nnoremap <leader>f :FZF<cr>
-nnoremap <leader><S-f> :Ag<cr>
 
 set ruler
 set cursorline
