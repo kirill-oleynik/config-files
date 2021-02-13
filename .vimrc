@@ -29,6 +29,7 @@ Plug 'tpope/vim-commentary' " comment line with 'gcc'
 " " NERD tree (sidebar with files tree) will be loaded
 " on the first invocation of NERDTreeToggle command
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'ervandew/supertab' " autocomplete
 Plug 'mg979/vim-visual-multi' " multiple cursors
 Plug 'tpope/vim-rails'
 Plug 'vim-ruby/vim-ruby'
