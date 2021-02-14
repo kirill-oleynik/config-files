@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/GitHub Theme/schemes/GitHub Dark.sublime-color-scheme",
+	"font_size": 14,
+	"ignored_packages": ["Vintage"],
+	"theme": "GitHub-Theme.sublime-theme",
+	"font_face": "Fira Code",
+    "highlight_line": true,
+    "font_options": ["gray_antialias", "subpixel_antialias"],
+    "indent_guide_options": ["draw_normal", "draw_active"],
+    "margin": 20,
+    "line_padding_bottom": 7,
+    "line_padding_top": 7,
+    "enable_tab_scrolling": false,
+    "show_sidebar_disclosure": false
+
+}
+
