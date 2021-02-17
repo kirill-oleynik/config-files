@@ -1,10 +1,13 @@
 source ~/antigen/antigen.zsh
 
+. $HOME/.asdf/asdf.sh
+
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
 # Bundles from the default repo (robbyrussell's oh-my-zsh).
 antigen bundles <<EOBUNDLES
+  bundler
   git
   heroku
   sublime
