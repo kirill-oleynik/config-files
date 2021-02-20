@@ -34,7 +34,7 @@ antigen apply
 # Gpg-agent configs
 export GPG_TTY=$(tty)
 export GPGKEY=C555C467
-eval $(gpg-agent --daemon)
+# eval $(gpg-agent --daemon)
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/kirilloleynik/.oh-my-zsh
