@@ -123,7 +123,6 @@ export PATH="$HOME/.yarn/bin:$PATH"
 
 export FZF_DEFAULT_OPTS='--height 50% --reverse --border'
 
-alias gcloud='~/Code/google-cloud-sdk/bin/gcloud'
 alias mvim="open -a MacVim.app $1" # launches MacVim with given parameter
 
 
