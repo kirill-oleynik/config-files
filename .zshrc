@@ -130,3 +130,6 @@ alias mvim="open -a MacVim.app $1" # launches MacVim with given parameter
 # tabtab source for sls package
 # uninstall by removing these lines or running `tabtab uninstall sls`
 [[ -f /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/sls.zsh ]] && . /Users/kirilloleynik/.config/yarn/global/node_modules/tabtab/.completions/sls.zsh
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
