@@ -1,0 +1,1056 @@
+[WRN][1665322104.2372920513] /home/kyryloliinyk/antigen.zsh:266
+[WRN][1665322104.2372920513] -antigen-interactive-mode: toplevel:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1665322104.2374935150] /home/kyryloliinyk/antigen.zsh:475
+[TRA][1665322104.2374935150] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1665322104.2374935150] TRACE
+-antigen-env-setup
+/home/kyryloliinyk/antigen.zsh
+[WRN][1665324280.4232077599] /home/kyryloliinyk/antigen/antigen.zsh:266
+[WRN][1665324280.4232077599] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1665324280.4233815670] /home/kyryloliinyk/antigen/antigen.zsh:1572
+[WRN][1665324280.4233815670] -antigen-lock-init return code was 0
+[LOG][1665324280.4234111309] /home/kyryloliinyk/antigen/antigen.zsh:1574
+[LOG][1665324280.4234111309] LOADED EXTENSION lock EXT
+[WRN][1665324280.4244246483] /home/kyryloliinyk/antigen/antigen.zsh:1684
+[WRN][1665324280.4244246483] Init parallel extension PARALLEL
+[WRN][1665324280.4244751930] /home/kyryloliinyk/antigen/antigen.zsh:266
+[WRN][1665324280.4244751930] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1665324280.4245142937] /home/kyryloliinyk/antigen/antigen.zsh:1572
+[WRN][1665324280.4245142937] -antigen-parallel-init return code was 0
+[LOG][1665324280.4245371819] /home/kyryloliinyk/antigen/antigen.zsh:1574
+[LOG][1665324280.4245371819] LOADED EXTENSION parallel EXT
+[WRN][1665324280.4245610237] /home/kyryloliinyk/antigen/antigen.zsh:1692
+[WRN][1665324280.4245610237] Exec parallel extension PARALLEL
+[WRN][1665324280.4247705936] /home/kyryloliinyk/antigen/antigen.zsh:266
+[WRN][1665324280.4247705936] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1665324280.4248092175] /home/kyryloliinyk/antigen/antigen.zsh:1572
+[WRN][1665324280.4248092175] -antigen-defer-init return code was 0
+[LOG][1665324280.4248321056] /home/kyryloliinyk/antigen/antigen.zsh:1574
+[LOG][1665324280.4248321056] LOADED EXTENSION defer EXT
+[WRN][1665324280.4254064560] /home/kyryloliinyk/antigen/antigen.zsh:266
+[WRN][1665324280.4254064560] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1665324280.4255826473] /home/kyryloliinyk/antigen/antigen.zsh:1572
+[WRN][1665324280.4255826473] -antigen-cache-init return code was 0
+[LOG][1665324280.4256138802] /home/kyryloliinyk/antigen/antigen.zsh:1574
+[LOG][1665324280.4256138802] LOADED EXTENSION cache EXT
+[WRN][1665324280.4268147945] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4268147945] Updated meta: target antigen mode once type pre called 1
+[WRN][1665324280.4268546104] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4268546104] Processing hooks: antigen-lock
+[WRN][1665324280.4268770218] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4268770218] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1665324280.4269015789] /home/kyryloliinyk/antigen/antigen.zsh:1658
+[LOG][1665324280.4269015789] antigen-lock called
+[WRN][1665324280.4269292355] /home/kyryloliinyk/antigen/antigen.zsh:1669
+[WRN][1665324280.4269292355] Creating antigen-lock file at /home/kyryloliinyk/.antigen/.lock
+[WRN][1665324280.4287641048] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4287641048] -antigen-hook-antigen use oh-my-zsh
+[WRN][1665324280.4372179508] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4372179508] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1665324280.4373075962] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4373075962] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1665324280.4373421669] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4373421669] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4373681545] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4373681545] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1665324280.4374170303] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4374170303] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1665324280.4374854565] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4374854565] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4375815392] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4375815392] Return from hook antigen with 0
+[WRN][1665324280.4377346039] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4377346039] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4377641678] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4377641678] Processing hooks: antigen-lock
+[WRN][1665324280.4377899170] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4377899170] -antigen-hook-antigen bundles
+[WRN][1665324280.4389550686] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4389550686] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1665324280.4390330315] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4390330315] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1665324280.4390642643] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4390642643] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4390871525] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4390871525] Pre hook: antigen-bundle-cached bundler
+[WRN][1665324280.4391300678] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4391300678] Replace hook: antigen-bundle-defer bundler
+[WRN][1665324280.4391639233] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4391639233] antigen-bundle-defer shortcircuited
+[WRN][1665324280.4392478466] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4392478466] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1665324280.4392914772] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4392914772] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1665324280.4393179417] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4393179417] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4393389225] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4393389225] Pre hook: antigen-bundle-cached git
+[WRN][1665324280.4393758774] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4393758774] Replace hook: antigen-bundle-defer git
+[WRN][1665324280.4394047260] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4394047260] antigen-bundle-defer shortcircuited
+[WRN][1665324280.4394779205] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4394779205] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1665324280.4395170212] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4395170212] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1665324280.4395420551] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4395420551] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4395632744] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4395632744] Pre hook: antigen-bundle-cached heroku
+[WRN][1665324280.4395973682] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4395973682] Replace hook: antigen-bundle-defer heroku
+[WRN][1665324280.4396259785] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4396259785] antigen-bundle-defer shortcircuited
+[WRN][1665324280.4397368431] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4397368431] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1665324280.4398136139] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4398136139] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1665324280.4398415089] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4398415089] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4398713112] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4398713112] Pre hook: antigen-bundle-cached sublime
+[WRN][1665324280.4399282932] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4399282932] Replace hook: antigen-bundle-defer sublime
+[WRN][1665324280.4399609566] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4399609566] antigen-bundle-defer shortcircuited
+[WRN][1665324280.4400463104] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4400463104] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1665324280.4400949478] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4400949478] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1665324280.4401297569] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4401297569] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4401583672] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4401583672] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1665324280.4402041435] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4402041435] Replace hook: antigen-bundle-defer command-not-found
+[WRN][1665324280.4402456284] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4402456284] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4403293133] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4403293133] Return from hook antigen with 0
+[WRN][1665324280.4404616356] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4404616356] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4404954910] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4404954910] Processing hooks: antigen-lock
+[WRN][1665324280.4405252934] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4405252934] -antigen-hook-antigen bundle zsh-users/zsh-syntax-highlighting
+[WRN][1665324280.4406049252] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4406049252] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1665324280.4406540394] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4406540394] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1665324280.4406824112] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4406824112] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4407055378] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4407055378] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1665324280.4407458305] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4407458305] Replace hook: antigen-bundle-defer zsh-users/zsh-syntax-highlighting
+[WRN][1665324280.4407784939] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4407784939] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4408216476] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4408216476] Return from hook antigen with 0
+[WRN][1665324280.4408910275] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4408910275] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4409158230] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4409158230] Processing hooks: antigen-lock
+[WRN][1665324280.4409415722] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4409415722] -antigen-hook-antigen bundle zsh-users/zsh-autosuggestions
+[WRN][1665324280.4410123825] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4410123825] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1665324280.4410572052] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4410572052] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1665324280.4410848618] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4410848618] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4411079884] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4411079884] Pre hook: antigen-bundle-cached zsh-users/zsh-autosuggestions
+[WRN][1665324280.4411537647] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4411537647] Replace hook: antigen-bundle-defer zsh-users/zsh-autosuggestions
+[WRN][1665324280.4411866665] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4411866665] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4412257671] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4412257671] Return from hook antigen with 0
+[WRN][1665324280.4412927628] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4412927628] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4413182735] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4413182735] Processing hooks: antigen-lock
+[WRN][1665324280.4413442612] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4413442612] -antigen-hook-antigen bundle paulirish/git-open
+[WRN][1665324280.4414145947] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4414145947] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1665324280.4414772987] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4414772987] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1665324280.4415445328] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4415445328] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4415669441] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4415669441] Pre hook: antigen-bundle-cached paulirish/git-open
+[WRN][1665324280.4416019917] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4416019917] Replace hook: antigen-bundle-defer paulirish/git-open
+[WRN][1665324280.4416313171] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4416313171] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4416685104] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4416685104] Return from hook antigen with 0
+[WRN][1665324280.4417314529] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4417314529] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4417567253] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4417567253] Processing hooks: antigen-lock
+[WRN][1665324280.4417817593] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4417817593] -antigen-hook-antigen theme miloshadzic
+[WRN][1665324280.4436886311] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4436886311] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1665324280.4437582493] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4437582493] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1665324280.4437894821] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4437894821] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1665324280.4438140392] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4438140392] Pre hook: antigen-bundle-cached --loc=themes/miloshadzic --btype=theme
+[WRN][1665324280.4438617229] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4438617229] Replace hook: antigen-bundle-defer --loc=themes/miloshadzic --btype=theme
+[WRN][1665324280.4438965321] /home/kyryloliinyk/antigen/antigen.zsh:1500
+[WRN][1665324280.4438965321] antigen-bundle-defer shortcircuited
+[LOG][1665324280.4439620972] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4439620972] Return from hook antigen with 0
+[WRN][1665324280.4440455437] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4440455437] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4440715313] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4440715313] Processing hooks: antigen-lock
+[WRN][1665324280.4440970421] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4440970421] -antigen-hook-antigen cache-gen
+[LOG][1665324280.4441399574] /home/kyryloliinyk/antigen/antigen.zsh:1787
+[LOG][1665324280.4441399574] Gonna generate cache for 
+[LOG][1665324280.4470691681] /home/kyryloliinyk/antigen/antigen.zsh:1844
+[LOG][1665324280.4470691681] CHECK_FILES 
+[LOG][1665324280.4472074509] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4472074509] Return from hook antigen with 0
+[WRN][1665324280.4473204613] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324280.4473204613] Ignoring hook due to mode once: antigen-lock
+[WRN][1665324280.4473516941] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4473516941] Processing hooks: antigen-lock
+[WRN][1665324280.4473824501] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324280.4473824501] -antigen-hook-antigen apply
+[WRN][1665324280.4474856853] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4474856853] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1665324280.4475398064] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4475398064] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1665324280.4475860596] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4475860596] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1665324280.4476301670] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4476301670] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1665324280.4476780891] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4476780891] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1665324280.4477083683] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4477083683] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1665324280.4477350712] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4477350712] Pre hook: antigen-apply-parallel
+[WRN][1665324280.4477629662] /home/kyryloliinyk/antigen/antigen.zsh:1744
+[WRN][1665324280.4477629662] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1665324280.4478499889] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4478499889] Pre hook: antigen-apply-defer
+[WRN][1665324280.4478793144] /home/kyryloliinyk/antigen/antigen.zsh:1623
+[WRN][1665324280.4478793144] Defer pre-apply DEFER PRE-APPLY
+[LOG][1665324280.4479801655] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4479801655] Processing deferred bundle: --loc=lib DEFER
+[WRN][1665324280.4480605125] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4480605125] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1665324280.4481124878] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4481124878] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1665324280.4481439590] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4481439590] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4481697083] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4481697083] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1665324280.4482147694] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4482147694] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1665324280.4482464790] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4482464790] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1665324280.4482464790] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4482848644] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4482848644] Replaced hooked function.
+[LOG][1665324280.4483106136] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4483106136] Return from hook antigen-bundle with 0
+[LOG][1665324280.4483461380] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4483461380] Processing deferred bundle: bundler DEFER
+[WRN][1665324280.4484126568] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4484126568] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1665324280.4484670162] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4484670162] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1665324280.4484996796] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4484996796] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4485254288] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4485254288] Pre hook: antigen-bundle-cached bundler
+[WRN][1665324280.4485685825] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4485685825] Replace hook: antigen-bundle-parallel bundler
+[TRA][1665324280.4485964775] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4485964775] antigen-bundle-parallel: bundler PARALLEL
+[TRA][1665324280.4485964775] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4486322403] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4486322403] Replaced hooked function.
+[LOG][1665324280.4486572742] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4486572742] Return from hook antigen-bundle with 0
+[LOG][1665324280.4486913681] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4486913681] Processing deferred bundle: git DEFER
+[WRN][1665324280.4487543106] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4487543106] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1665324280.4487974644] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4487974644] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1665324280.4488246441] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4488246441] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4488472939] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4488472939] Pre hook: antigen-bundle-cached git
+[WRN][1665324280.4488854408] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4488854408] Replace hook: antigen-bundle-parallel git
+[TRA][1665324280.4489126205] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4489126205] antigen-bundle-parallel: git PARALLEL
+[TRA][1665324280.4489126205] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4489476681] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4489476681] Replaced hooked function.
+[LOG][1665324280.4489724636] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4489724636] Return from hook antigen-bundle with 0
+[LOG][1665324280.4490044117] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4490044117] Processing deferred bundle: heroku DEFER
+[WRN][1665324280.4490680695] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4490680695] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1665324280.4491121769] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4491121769] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1665324280.4491417408] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4491417408] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4491655827] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4491655827] Pre hook: antigen-bundle-cached heroku
+[WRN][1665324280.4492061138] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4492061138] Replace hook: antigen-bundle-parallel heroku
+[TRA][1665324280.4492332935] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4492332935] antigen-bundle-parallel: heroku PARALLEL
+[TRA][1665324280.4492332935] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4492733479] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4492733479] Replaced hooked function.
+[LOG][1665324280.4492981434] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4492981434] Return from hook antigen-bundle with 0
+[LOG][1665324280.4493305683] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4493305683] Processing deferred bundle: sublime DEFER
+[WRN][1665324280.4493920803] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4493920803] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1665324280.4494361877] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4494361877] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1665324280.4495513439] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4495513439] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4495782852] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4495782852] Pre hook: antigen-bundle-cached sublime
+[WRN][1665324280.4496188164] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4496188164] Replace hook: antigen-bundle-parallel sublime
+[TRA][1665324280.4496443272] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4496443272] antigen-bundle-parallel: sublime PARALLEL
+[TRA][1665324280.4496443272] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4496755600] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4496755600] Replaced hooked function.
+[LOG][1665324280.4496977329] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4496977329] Return from hook antigen-bundle with 0
+[LOG][1665324280.4497270584] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4497270584] Processing deferred bundle: command-not-found DEFER
+[WRN][1665324280.4497859478] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4497859478] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1665324280.4498276711] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4498276711] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1665324280.4498546124] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4498546124] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4498772621] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4498772621] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1665324280.4499144554] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4499144554] Replace hook: antigen-bundle-parallel command-not-found
+[TRA][1665324280.4499411583] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4499411583] antigen-bundle-parallel: command-not-found PARALLEL
+[TRA][1665324280.4499411583] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4499731064] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4499731064] Replaced hooked function.
+[LOG][1665324280.4499957561] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4499957561] Return from hook antigen-bundle with 0
+[LOG][1665324280.4500260353] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4500260353] Processing deferred bundle: zsh-users/zsh-syntax-highlighting DEFER
+[WRN][1665324280.4500842094] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4500842094] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1665324280.4501273632] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4501273632] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1665324280.4501543045] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4501543045] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4501829147] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4501829147] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1665324280.4502248764] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4502248764] Replace hook: antigen-bundle-parallel zsh-users/zsh-syntax-highlighting
+[TRA][1665324280.4502530098] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4502530098] antigen-bundle-parallel: zsh-users/zsh-syntax-highlighting PARALLEL
+[TRA][1665324280.4502530098] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4502868652] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4502868652] Replaced hooked function.
+[LOG][1665324280.4503073692] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4503073692] Return from hook antigen-bundle with 0
+[LOG][1665324280.4503555298] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4503555298] Processing deferred bundle: zsh-users/zsh-autosuggestions DEFER
+[WRN][1665324280.4504265785] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4504265785] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1665324280.4504899979] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4504899979] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1665324280.4505190849] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4505190849] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4505429268] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4505429268] Pre hook: antigen-bundle-cached zsh-users/zsh-autosuggestions
+[WRN][1665324280.4505941868] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4505941868] Replace hook: antigen-bundle-parallel zsh-users/zsh-autosuggestions
+[TRA][1665324280.4506380558] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4506380558] antigen-bundle-parallel: zsh-users/zsh-autosuggestions PARALLEL
+[TRA][1665324280.4506380558] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4506757259] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4506757259] Replaced hooked function.
+[LOG][1665324280.4506983757] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4506983757] Return from hook antigen-bundle with 0
+[LOG][1665324280.4507281780] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4507281780] Processing deferred bundle: paulirish/git-open DEFER
+[WRN][1665324280.4507873058] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4507873058] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1665324280.4508271217] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4508271217] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1665324280.4508528709] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4508528709] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4508733749] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4508733749] Pre hook: antigen-bundle-cached paulirish/git-open
+[WRN][1665324280.4509091377] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4509091377] Replace hook: antigen-bundle-parallel paulirish/git-open
+[TRA][1665324280.4509341717] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4509341717] antigen-bundle-parallel: paulirish/git-open PARALLEL
+[TRA][1665324280.4509341717] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4509646893] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4509646893] Replaced hooked function.
+[LOG][1665324280.4509902000] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4509902000] Return from hook antigen-bundle with 0
+[LOG][1665324280.4510202408] /home/kyryloliinyk/antigen/antigen.zsh:1629
+[LOG][1665324280.4510202408] Processing deferred bundle: --loc=themes/miloshadzic --btype=theme DEFER
+[WRN][1665324280.4510784149] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4510784149] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1665324280.4511179924] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324280.4511179924] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1665324280.4511444569] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324280.4511444569] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1665324280.4511671066] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324280.4511671066] Pre hook: antigen-bundle-cached --loc=themes/miloshadzic --btype=theme
+[WRN][1665324280.4512047768] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4512047768] Replace hook: antigen-bundle-parallel --loc=themes/miloshadzic --btype=theme
+[TRA][1665324280.4512312412] /home/kyryloliinyk/.zshrc:1748
+[TRA][1665324280.4512312412] antigen-bundle-parallel: --loc=themes/miloshadzic --btype=theme PARALLEL
+[TRA][1665324280.4512312412] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324280.4512631893] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324280.4512631893] Replaced hooked function.
+[LOG][1665324280.4512844086] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324280.4512844086] Return from hook antigen-bundle with 0
+[WRN][1665324280.4513289928] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324280.4513289928] Replace hook: antigen-apply-parallel-execute
+[WRN][1665324280.4513540268] /home/kyryloliinyk/antigen/antigen.zsh:1756
+[WRN][1665324280.4513540268] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1665324280.4514374733] /home/kyryloliinyk/antigen/antigen.zsh:1695
+[WRN][1665324280.4514374733] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1665324280.4514899254] /home/kyryloliinyk/antigen/antigen.zsh:1699
+[WRN][1665324280.4514899254] Gonna install in parallel 10 bundles. PARALLEL
+[WRN][1665324280.4515144825] /home/kyryloliinyk/antigen/antigen.zsh:1701
+[WRN][1665324280.4515144825] --loc=lib bundler git heroku sublime command-not-found zsh-users/zsh-syntax-highlighting zsh-users/zsh-autosuggestions paulirish/git-open --loc=themes/miloshadzic --btype=theme PARALLEL
+[WRN][1665324280.4518337250] /home/kyryloliinyk/antigen/antigen.zsh:1708
+[WRN][1665324280.4518337250] Install in parallel robbyrussell/oh-my-zsh. PARALLEL
+[WRN][1665324280.4523980618] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4523980618] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324280.4526352882] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4526352882] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324280.4528396130] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4528396130] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324280.4530367851] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4530367851] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324280.4532308578] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4532308578] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324280.4534573555] /home/kyryloliinyk/antigen/antigen.zsh:1708
+[WRN][1665324280.4534573555] Install in parallel zsh-users/zsh-syntax-highlighting. PARALLEL
+[WRN][1665324280.4540643692] /home/kyryloliinyk/antigen/antigen.zsh:1708
+[WRN][1665324280.4540643692] Install in parallel zsh-users/zsh-autosuggestions. PARALLEL
+[WRN][1665324280.4548389912] /home/kyryloliinyk/antigen/antigen.zsh:1708
+[WRN][1665324280.4548389912] Install in parallel paulirish/git-open. PARALLEL
+[WRN][1665324280.4555475712] /home/kyryloliinyk/antigen/antigen.zsh:1715
+[WRN][1665324280.4555475712] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1665324283.6095652580] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6095652580] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1665324283.6097321510] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6097321510] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6098318100] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6098318100] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1665324283.6099491119] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6099491119] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1665324283.6100273132] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6100273132] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1665324283.6100273132] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6112465858] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6112465858] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1665324283.6113581657] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6113581657] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6114716530] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6114716530] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6116309166] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6116309166] Replaced hooked function.
+[LOG][1665324283.6116974354] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6116974354] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6119933128] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6119933128] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1665324283.6120774746] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6120774746] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6121864319] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6121864319] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/cli.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/vcs_info.zsh
+[WRN][1665324283.6123931408] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6123931408] Replaced hooked function.
+[LOG][1665324283.6124579906] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6124579906] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6125843525] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6125843525] Return from hook antigen-bundle with 0
+[WRN][1665324283.6127817631] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6127817631] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1665324283.6128582954] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6128582954] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6129162312] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6129162312] Pre hook: antigen-bundle-cached bundler
+[WRN][1665324283.6130075455] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6130075455] -antigen-hook-antigen-bundle bundler
+[TRA][1665324283.6130709648] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6130709648] Called antigen-bundle with bundler BUNDLE
+[TRA][1665324283.6130709648] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6139650345] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6139650345] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1665324283.6140024662] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6140024662] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6140408516] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6140408516] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/bundler name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6140964031] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6140964031] Replaced hooked function.
+[LOG][1665324283.6141200066] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6141200066] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6141924858] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6141924858] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1665324283.6142215729] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6142215729] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6142506599] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6142506599] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/bundler/bundler.plugin.zsh
+[WRN][1665324283.6142840385] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6142840385] Replaced hooked function.
+[LOG][1665324283.6143059731] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6143059731] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6143481731] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6143481731] Return from hook antigen-bundle with 0
+[WRN][1665324283.6144161224] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6144161224] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1665324283.6144428253] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6144428253] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6144633293] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6144633293] Pre hook: antigen-bundle-cached git
+[WRN][1665324283.6144955158] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6144955158] -antigen-hook-antigen-bundle git
+[TRA][1665324283.6145217419] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6145217419] Called antigen-bundle with git BUNDLE
+[TRA][1665324283.6145217419] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6148266792] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6148266792] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1665324283.6148602962] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6148602962] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6148951054] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6148951054] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6149466038] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6149466038] Replaced hooked function.
+[LOG][1665324283.6149690151] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6149690151] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6150372028] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6150372028] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1665324283.6150650978] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6150650978] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6150932312] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6150932312] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1665324283.6151249409] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6151249409] Replaced hooked function.
+[LOG][1665324283.6151461601] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6151461601] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6151883602] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6151883602] Return from hook antigen-bundle with 0
+[WRN][1665324283.6152551174] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6152551174] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1665324283.6152818203] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6152818203] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6153023243] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6153023243] Pre hook: antigen-bundle-cached heroku
+[WRN][1665324283.6153337955] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6153337955] -antigen-hook-antigen-bundle heroku
+[TRA][1665324283.6153559685] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6153559685] Called antigen-bundle with heroku BUNDLE
+[TRA][1665324283.6153559685] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6156520844] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6156520844] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1665324283.6156849861] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6156849861] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6157195568] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6157195568] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/heroku name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6157710552] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6157710552] Replaced hooked function.
+[LOG][1665324283.6157970428] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6157970428] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6158647537] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6158647537] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1665324283.6158931255] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6158931255] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6159210205] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6159210205] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku/heroku.plugin.zsh
+[WRN][1665324283.6159532070] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6159532070] Replaced hooked function.
+[LOG][1665324283.6159746647] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6159746647] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6160161495] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6160161495] Return from hook antigen-bundle with 0
+[WRN][1665324283.6160807610] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6160807610] Updated meta: target antigen-bundle mode repeat type pre called 25
+[WRN][1665324283.6161065102] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6161065102] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6161270142] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6161270142] Pre hook: antigen-bundle-cached sublime
+[WRN][1665324283.6161580086] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6161580086] -antigen-hook-antigen-bundle sublime
+[TRA][1665324283.6161801815] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6161801815] Called antigen-bundle with sublime BUNDLE
+[TRA][1665324283.6161801815] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6164872646] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6164872646] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1665324283.6165254116] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6165254116] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6165633202] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6165633202] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/sublime name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6166179180] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6166179180] Replaced hooked function.
+[LOG][1665324283.6166410446] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6166410446] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6167128086] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6167128086] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1665324283.6167423725] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6167423725] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6167719364] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6167719364] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/sublime/sublime.plugin.zsh
+[WRN][1665324283.6168053150] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6168053150] Replaced hooked function.
+[LOG][1665324283.6168274879] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6168274879] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6168696880] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6168696880] Return from hook antigen-bundle with 0
+[WRN][1665324283.6169404984] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6169404984] Updated meta: target antigen-bundle mode repeat type pre called 26
+[WRN][1665324283.6169683933] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6169683933] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6169896126] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6169896126] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1665324283.6170220375] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6170220375] -antigen-hook-antigen-bundle command-not-found
+[TRA][1665324283.6170451641] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6170451641] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1665324283.6170451641] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6173493862] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6173493862] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1665324283.6173856258] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6173856258] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6174232960] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6174232960] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/command-not-found name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6175215244] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6175215244] Replaced hooked function.
+[LOG][1665324283.6175820827] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6175820827] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6176536083] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6176536083] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1665324283.6176824570] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6176824570] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6177117825] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6177117825] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh
+[WRN][1665324283.6177453995] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6177453995] Replaced hooked function.
+[LOG][1665324283.6177668571] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6177668571] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6178088188] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6178088188] Return from hook antigen-bundle with 0
+[WRN][1665324283.6178770065] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6178770065] Updated meta: target antigen-bundle mode repeat type pre called 27
+[WRN][1665324283.6179044247] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6179044247] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6179256439] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6179256439] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1665324283.6179592609] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6179592609] -antigen-hook-antigen-bundle zsh-users/zsh-syntax-highlighting
+[TRA][1665324283.6179826260] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6179826260] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1665324283.6179826260] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6182987690] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6182987690] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1665324283.6183352470] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6183352470] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6183702946] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6183702946] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-syntax-highlighting btype plugin url https://github.com/zsh-users/zsh-syntax-highlighting.git loc / name zsh-users/zsh-syntax-highlighting make_local_clone true
+[WRN][1665324283.6184239388] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6184239388] Replaced hooked function.
+[LOG][1665324283.6184463501] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6184463501] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6185142994] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6185142994] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1665324283.6185426712] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6185426712] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6185712814] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6185712814] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh
+[WRN][1665324283.6186039448] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6186039448] Replaced hooked function.
+[LOG][1665324283.6186258793] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6186258793] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6186678410] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6186678410] Return from hook antigen-bundle with 0
+[WRN][1665324283.6187334061] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6187334061] Updated meta: target antigen-bundle mode repeat type pre called 28
+[WRN][1665324283.6187601089] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6187601089] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6187808514] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6187808514] Pre hook: antigen-bundle-cached zsh-users/zsh-autosuggestions
+[WRN][1665324283.6188130379] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6188130379] -antigen-hook-antigen-bundle zsh-users/zsh-autosuggestions
+[TRA][1665324283.6188359261] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6188359261] Called antigen-bundle with zsh-users/zsh-autosuggestions BUNDLE
+[TRA][1665324283.6188359261] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6191444397] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6191444397] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1665324283.6191804409] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6191804409] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6192173958] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6192173958] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-autosuggestions btype plugin url https://github.com/zsh-users/zsh-autosuggestions.git loc / name zsh-users/zsh-autosuggestions make_local_clone true
+[WRN][1665324283.6192717552] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6192717552] Replaced hooked function.
+[LOG][1665324283.6192944050] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6192944050] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6193649769] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6193649769] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1665324283.6193978786] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6193978786] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6194274426] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6194274426] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-autosuggestions///zsh-autosuggestions.plugin.zsh
+[WRN][1665324283.6194608212] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6194608212] Replaced hooked function.
+[LOG][1665324283.6194825172] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6194825172] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6195249557] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6195249557] Return from hook antigen-bundle with 0
+[WRN][1665324283.6195919514] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6195919514] Updated meta: target antigen-bundle mode repeat type pre called 29
+[WRN][1665324283.6196186543] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6196186543] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6196393967] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6196393967] Pre hook: antigen-bundle-cached paulirish/git-open
+[WRN][1665324283.6196722984] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6196722984] -antigen-hook-antigen-bundle paulirish/git-open
+[TRA][1665324283.6196951866] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6196951866] Called antigen-bundle with paulirish/git-open BUNDLE
+[TRA][1665324283.6196951866] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6199977398] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6199977398] Updated meta: target -antigen-load-env mode repeat type replace called 9
+[WRN][1665324283.6200308800] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6200308800] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6200656891] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6200656891] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/paulirish/git-open btype plugin url https://github.com/paulirish/git-open.git loc / name paulirish/git-open make_local_clone true
+[WRN][1665324283.6201176643] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6201176643] Replaced hooked function.
+[LOG][1665324283.6201395988] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6201395988] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6202070713] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6202070713] Updated meta: target -antigen-load-source mode repeat type replace called 9
+[WRN][1665324283.6202347279] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6202347279] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6202623844] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6202623844] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/paulirish/git-open///git-open.plugin.zsh
+[WRN][1665324283.6202936172] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6202936172] Replaced hooked function.
+[LOG][1665324283.6203148365] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6203148365] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6203563213] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6203563213] Return from hook antigen-bundle with 0
+[WRN][1665324283.6204218864] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6204218864] Updated meta: target antigen-bundle mode repeat type pre called 30
+[WRN][1665324283.6204478741] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6204478741] Processing hooks: antigen-bundle-cached
+[WRN][1665324283.6204690933] /home/kyryloliinyk/antigen/antigen.zsh:1487
+[WRN][1665324283.6204690933] Pre hook: antigen-bundle-cached --loc=themes/miloshadzic --btype=theme
+[WRN][1665324283.6205053329] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6205053329] -antigen-hook-antigen-bundle --loc=themes/miloshadzic --btype=theme
+[TRA][1665324283.6205289364] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[TRA][1665324283.6205289364] Called antigen-bundle with --loc=themes/miloshadzic --btype=theme BUNDLE
+[TRA][1665324283.6205289364] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[WRN][1665324283.6208002567] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6208002567] Updated meta: target -antigen-load-env mode repeat type replace called 10
+[WRN][1665324283.6208374500] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6208374500] Processing hooks: -antigen-load-env-cached
+[WRN][1665324283.6208753586] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6208753586] Replace hook: -antigen-load-env-cached dir /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh btype theme url https://github.com/robbyrussell/oh-my-zsh.git loc themes/miloshadzic.zsh-theme name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1665324283.6209292412] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6209292412] Replaced hooked function.
+[LOG][1665324283.6209518909] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6209518909] Return from hook -antigen-load-env with 0
+[WRN][1665324283.6210229397] /home/kyryloliinyk/antigen/antigen.zsh:1469
+[WRN][1665324283.6210229397] Updated meta: target -antigen-load-source mode repeat type replace called 10
+[WRN][1665324283.6210527420] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6210527420] Processing hooks: -antigen-load-source-cached
+[WRN][1665324283.6210813522] /home/kyryloliinyk/antigen/antigen.zsh:1498
+[WRN][1665324283.6210813522] Replace hook: -antigen-load-source-cached /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/themes/miloshadzic.zsh-theme
+[WRN][1665324283.6211137772] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6211137772] Replaced hooked function.
+[LOG][1665324283.6211352348] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6211352348] Return from hook -antigen-load-source with 0
+[LOG][1665324283.6211791039] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6211791039] Return from hook antigen-bundle with 0
+[WRN][1665324283.6212084293] /home/kyryloliinyk/antigen/antigen.zsh:1739
+[WRN][1665324283.6212084293] Parallel install done PARALLEL
+[WRN][1665324283.6213226318] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324283.6213226318] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1665324283.6213557720] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324283.6213557720] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1665324283.6213836670] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324283.6213836670] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1665324283.6214108467] /home/kyryloliinyk/antigen/antigen.zsh:1462
+[WRN][1665324283.6214108467] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1665324283.6214318275] /home/kyryloliinyk/antigen/antigen.zsh:1484
+[WRN][1665324283.6214318275] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1665324283.6214671135] /home/kyryloliinyk/antigen/antigen.zsh:1505
+[WRN][1665324283.6214671135] -antigen-hook-antigen-apply 
+[LOG][1665324283.6214916706] /home/kyryloliinyk/antigen/antigen.zsh:1438
+[LOG][1665324283.6214916706] Called antigen-apply
+[TRA][1665324283.6215114594] /home/kyryloliinyk/antigen/antigen.zsh:1439
+[TRA][1665324283.6215114594] Gonna create compdump file @ apply COMPDUMP
+[TRA][1665324283.6215114594] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/kyryloliinyk/.zshrc
+[LOG][1665324283.6381604671] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6381604671] Return from hook antigen-apply with 0
+[WRN][1665324283.6382563114] /home/kyryloliinyk/antigen/antigen.zsh:1509
+[WRN][1665324283.6382563114] Replaced hooked function.
+[WRN][1665324283.6382873058] /home/kyryloliinyk/antigen/antigen.zsh:1513
+[WRN][1665324283.6382873058] Post hook: antigen-apply-lock
+[WRN][1665324283.6383135319] /home/kyryloliinyk/antigen/antigen.zsh:1676
+[WRN][1665324283.6383135319] Freeing antigen-lock file at /home/kyryloliinyk/.antigen/.lock
+[WRN][1665324283.6392450333] /home/kyryloliinyk/antigen/antigen.zsh:1513
+[WRN][1665324283.6392450333] Post hook: antigen-apply-cached
+[LOG][1665324283.6393008232] /home/kyryloliinyk/antigen/antigen.zsh:1893
+[LOG][1665324283.6393008232] TRACE: /home/kyryloliinyk/antigen/antigen.zsh:1514 /home/kyryloliinyk/antigen/antigen.zsh:1441 /home/kyryloliinyk/antigen/antigen.zsh:1447 /home/kyryloliinyk/antigen/antigen.zsh:1506 /home/kyryloliinyk/antigen/antigen.zsh:1441 /home/kyryloliinyk/.zshrc:30 zsh:0
+[LOG][1665324283.6394166946] /home/kyryloliinyk/antigen/antigen.zsh:1787
+[LOG][1665324283.6394166946] Gonna generate cache for /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/cli.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/lib/vcs_info.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/bundler /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/bundler/bundler.plugin.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku/heroku.plugin.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/sublime /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/sublime/sublime.plugin.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-syntax-highlighting// /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-syntax-highlighting///zsh-syntax-highlighting.plugin.zsh /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-autosuggestions// /home/kyryloliinyk/.antigen/bundles/zsh-users/zsh-autosuggestions///zsh-autosuggestions.plugin.zsh /home/kyryloliinyk/.antigen/bundles/paulirish/git-open// /home/kyryloliinyk/.antigen/bundles/paulirish/git-open///git-open.plugin.zsh /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/themes/miloshadzic.zsh-theme /home/kyryloliinyk/.antigen/bundles/robbyrussell/oh-my-zsh/themes/miloshadzic.zsh-theme
+[LOG][1665324283.6453509331] /home/kyryloliinyk/antigen/antigen.zsh:1844
+[LOG][1665324283.6453509331] CHECK_FILES /home/kyryloliinyk/.zshrc /home/kyryloliinyk/.zshrc
+[LOG][1665324283.6848597527] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6848597527] Return from hook antigen-apply with 0
+[LOG][1665324283.6849532127] /home/kyryloliinyk/antigen/antigen.zsh:1518
+[LOG][1665324283.6849532127] Return from hook antigen with 0
