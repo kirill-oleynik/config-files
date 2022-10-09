@@ -39,6 +39,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'airblade/vim-gitgutter' " show git status for lines
 Plug 'mxw/vim-jsx'
 Plug '/usr/local/opt/fzf' " fzf search (installed using Homebrew)
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } } " fzf search
 Plug 'junegunn/fzf.vim' " fzf search
 Plug 'xuyuanp/nerdtree-git-plugin'
 
